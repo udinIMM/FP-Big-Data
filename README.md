@@ -37,9 +37,10 @@ Method = **[POST]**
 ![Contoh Gambar 2](img/result.png)
 
 ## Referensi
-1. https://linuxhint.com/install-apache-kafka-ubuntu/
-2. https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1
-3. https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05
+1. [Link Dataset](https://www.kaggle.com/ambarish/acled-middle-east-and-south-east-asia)
+2. [Cara install Zookeeper yang saya gunakan untuk distro Kali linux](https://linuxhint.com/install-apache-kafka-ubuntu/)
+3. https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1
+4. https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05
 
 ### Dibuat oleh :
 #### Ilham Muhammad Misbahuddin
