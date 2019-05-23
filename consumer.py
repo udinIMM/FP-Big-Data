@@ -9,7 +9,7 @@ consumer = KafkaConsumer(
      enable_auto_commit=True,
      value_deserializer=lambda x: loads(x.decode('utf-8')))
 
-folder_path = os.path.join(os.getcwd(), 'dataset-after-kafka')
+folder_path = os.path.join(os.getcwd(), 'dataset-kafka')
 batch_limit = 100000
 batch_counter = 0
 batch_number = 0
