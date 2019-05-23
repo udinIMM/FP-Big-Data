@@ -35,3 +35,12 @@ Method = **[POST]**
 `http://<IP_SERVER>:5432/clusterRegion` 
 - Menampilkan hasil cluster sesuai dengan yang diharapkan.
 ![Contoh Gambar 2](img/result.png)
+
+## Referensi
+1. https://linuxhint.com/install-apache-kafka-ubuntu/
+2. https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1
+3. https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05
+
+### Dibuat oleh :
+#### Ilham Muhammad Misbahuddin
+#### 05111540000088
