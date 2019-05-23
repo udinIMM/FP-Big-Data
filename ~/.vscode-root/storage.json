@@ -1366,5 +1366,19 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e"
+    "themeBackground": "#26292c",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///root/Lecture/BIGDATA/2/FP-Big-Data",
+            "backupPath": "/root/Lecture/BIGDATA/2/FP-Big-Data/~/.vscode-root/Backups/451d8ba5eab4b074077c53520bf13365",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 59,
+                "width": 1366,
+                "height": 709
+            }
+        },
+        "openedWindows": []
+    }
 }
